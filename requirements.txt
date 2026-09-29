@@ -1,0 +1,13 @@
+# ============================================================================
+# REQUIREMENTS: INDIAN BANKING MANAGEMENT SYSTEM
+# Course: Python Essentials (First-Year Student Academic Project)
+# ============================================================================
+# This academic project is built strictly using the Python Standard Library.
+# Modules used:
+#   - array (Built-in Python Standard Library module)
+#
+# No external third-party packages or pip dependencies (like pandas, pytest, etc.)
+# are required or allowed per the syllabus restrictions.
+#
+# Recommended Python Version: Python 3.8 or higher.
+# ============================================================================
